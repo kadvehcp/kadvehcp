@@ -1,7 +1,4 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
+# Created by Kamal Kishor (kadvehcp)
 User-agent: *
-Allow: /
-
+Disallow: 
 Sitemap: https://kamal.pages.dev/sitemap-0.xml
