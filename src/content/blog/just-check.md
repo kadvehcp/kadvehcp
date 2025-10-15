@@ -1,0 +1,24 @@
+---
+author: kamal-kadvehcp
+pubDatetime: 2024-07-04T08:20:40.816Z
+title: "my music"
+slug: "kadv-music-blog"
+featured: true
+tags:
+  - release
+description: "music blog post"
+---
+
+# Welcome to my music app
+this is a great app
+
+# about me
+
+i am **kamal** kishor.
+
+- web dev
+
+- sys admin
+
+- ethical hacker
+- 
